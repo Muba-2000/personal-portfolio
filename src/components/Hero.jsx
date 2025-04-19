@@ -45,7 +45,7 @@ function Hero() {
     <section className="relative min-h-screen flex items-center justify-center bg-gradient-to-b from-gray-50 to-white overflow-hidden">
       {/* Background Image */}
       <div className="absolute inset-0 z-0">
-        <div className="absolute inset-0 bg-[url('hero.jpg')] bg-cover bg-center opacity-80" />
+        <div className="absolute inset-0 bg-[url('/personal-portfolio/hero.jpg')] bg-cover bg-center opacity-80" />
       </div>
 
       {/* Content */}
